@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "picture": "https://static9.depositphotos.com/1594308/1162/i/950/depositphotos_11629888-stock-photo-group-work.jpg",
+        "promotion_name": "Tên khuyến mãi số 1",
+        "promotion_info": "Miễn phí một buổi đào tạo phần mềm và gói dịch vụ hỗ trợ để thành thạo các phần mềm sẵn có từ ngày 01/01/2024 đến ngày 31/12/2024"
+    },
+    {
+        "id": 2,
+        "picture": "https://previews.123rf.com/images/chagin/chagin1211/chagin121100120/16113318-business-people-working-together-a-diverse-work-group.jpg",
+        "promotion_name": "Tên khuyến mãi số 2",
+        "promotion_info": "Miễn phí Một Năm quyền sử dụng phần mềm từ ngày 01/01/2024 đến ngày 31/12/2024"
+    },
+    {
+        "id": 3,
+        "picture": "https://st4.depositphotos.com/5392356/28915/i/450/depositphotos_289158030-stock-photo-business-colleagues-conference-meeting-room.jpg",
+        "promotion_name": "Tên khuyến mãi số 3",
+        "promotion_info": "Giảm 30% giá quyền sử dụng phần mềm (Áp dụng trên nguyên giá) khi mua phần mềm từ ngày 01/01/2024 đến ngày 31/12/2024"
+    },
+    {
+        "id": 4,
+        "picture": "https://st4.depositphotos.com/5392356/28915/i/450/depositphotos_289158030-stock-photo-business-colleagues-conference-meeting-room.jpg",
+        "promotion_name": "Tên khuyến mãi số 4",
+        "promotion_info": "Giảm 30% giá quyền sử dụng phần mềm (Áp dụng trên nguyên giá) khi mua phần mềm từ ngày 01/01/2024 đến ngày 31/12/2024"
+    },
+    {
+        "title": "Đăng ký khuyến mãi",
+        "fields": [
+            {
+                "label": "Họ và tên",
+                "type": "text",
+                "name": "fullname",
+                "class": "form-input"
+            },
+            {
+                "label": "Email",
+                "type": "email",
+                "name": "email",
+                "class": "form-input"
+            },
+            {
+                "label": "Số điện thoại",
+                "type": "tel",
+                "name": "phone",
+                "class": "form-input"
+            }
+        ]
+    }
+    
+]
+
+
